@@ -1,0 +1,14 @@
+
+# Created by https://www.gitignore.io/api/1c
+# Edit at https://www.gitignore.io/?templates=1c
+
+### 1C ###
+# 1C external data processors on unmanaged formes
+
+**/Form/**/form
+src/**/und/*
+src/**/maps.txt
+src/**/renames.txt
+
+# End of https://www.gitignore.io/api/1c
+node_modules
